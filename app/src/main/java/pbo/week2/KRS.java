@@ -1,4 +1,4 @@
-package week2;
+package pbo.week2;
 
 
 public class KRS {
